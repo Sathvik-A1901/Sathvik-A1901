@@ -314,4 +314,15 @@ Your moat is:
 
 Move from vibes → engineering.
 
+# References
 
+- https://www.decodingai.com/p/the-5-star-lie-you-are-doing-ai-evals
+- https://www.decodingai.com/p/the-mirage-of-generic-ai-metrics
+- https://www.youtube.com/watch?v=JoAxZsdw_3w
+- https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents
+- https://www.youtube.com/watch?v=e2i6JbU2R-s
+- https://eugeneyan.com/writing/llm-evaluators/
+- https://www.decodingai.com/p/stop-launching-ai-apps-without-this
+- https://jxnl.co/writing/2025/05/19/there-are-only-6-rag-evals/
+- https://hamel.dev/blog/posts/llm-judge/
+- https://www.youtube.com/watch?v=sEMYSSS6Ims
