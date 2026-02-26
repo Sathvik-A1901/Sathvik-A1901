@@ -1,4 +1,3 @@
-# 💫 About Me:
 In the multiverse of data, I wield the power of AI, machine learning, and deep learning like Tony Stark with his tech. As a Master’s student in Data Science at UNT, I craft intelligent models, build AI-powered systems, and deploy scalable solutions faster than a Quinjet on autopilot.
 
 My research? Published like a secret S.H.I.E.L.D. report. My projects? More powerful than Vibranium. From NLP-powered search engines to AI-driven healthcare innovations, I turn raw data into groundbreaking insights. Cloud computing, automation, and predictive modeling? That’s my endgame.
