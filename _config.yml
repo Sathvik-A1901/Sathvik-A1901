@@ -1,3 +1,7 @@
-title: "Sathvik's AI Engineering Notes"
-description: "From Vibes to Evaluation-Driven Development"
+title: "Sathvik Addicharla"
+description: "AI Engineering | Evaluation-Driven Development | LLM Systems"
 theme: minima
+
+minima:
+  skin: dark
+
